@@ -4,9 +4,9 @@ let app = new express();
 const knex = require("knex")({
 client: "mysql",
 connection: {
-host: "",
+host: "dinosaur-milestone-db.cj022s6kgg1z.us-east-2.rds.amazonaws.com",
 user: "admin",
-password: "Password123",
+password: "Password123!",
 database: "dinosaurs",
 port: 3306
 },
