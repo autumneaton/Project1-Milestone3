@@ -6,7 +6,7 @@ client: "mysql",
 connection: {
 host: "",
 user: "admin",
-password: "password",
+password: "Password123",
 database: "dinosaurs",
 port: 3306
 },
